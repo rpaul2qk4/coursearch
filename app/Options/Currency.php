@@ -1,0 +1,30 @@
+<?php
+return [
+	'' => 'Select Currency',	
+	'btc' => 'btc',
+	'cny' => 'cny',
+	'dollar' => 'dollar',
+	'eur' => 'eur',
+	'euro' => 'euro',
+	'gbp' => 'gbp',
+	'gg' => 'gg',
+	'circle' => 'gg-circle',
+	'ils' => 'ils',
+	'inr' => 'inr',
+	'jpy' => 'jpy',
+	'krw' => 'krw',
+	'money' => 'money',
+	'rmb' => 'rmb',
+	'rouble' => 'rouble',
+	'rub' => 'rub',
+	'ruble' => 'ruble',
+	'rupee' => 'rupee',
+	'shekel' => 'shekel',
+	'sheqel' => 'sheqel',
+	'try' => 'try',
+	'turkish-lira' => 'urkish-lira',
+	'usd' => 'usd',
+	'won' => 'won',
+	'yen' => 'yen'
+];
+
